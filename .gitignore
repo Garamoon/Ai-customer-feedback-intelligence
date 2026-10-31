@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Generated at runtime by the notebook (data/ is intentionally tracked)
+models/
+charts/
+gradio_cached_examples/
+flagged/
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
