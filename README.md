@@ -150,8 +150,7 @@ python generate_data.py        # recreates data/reviews_raw.csv
 Python · pandas · NumPy · scikit-learn · matplotlib · seaborn · Gradio
 
 ## 👤 Author
-
-**Abdulrahman Khaled Hassan Garamon** — [LinkedIn]([https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/abdulrahman-khaled-garamon-5558aa31b)) · [GitHub](https://github.com/Garamoon)
+**Abdulrahman Khaled Hassan Garamon** — [LinkedIn]((https://www.linkedin.com/in/abdulrahman-khaled-garamon-5558aa31b)) · [GitHub](https://github.com/Garamoon)
 
 ## 📄 License
 
