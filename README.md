@@ -130,7 +130,7 @@ Python · pandas · NumPy · scikit-learn · matplotlib · seaborn · Gradio
 
 ## 👤 Author
 
-**YOUR NAME** — [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
+**Abdulrahman Khaled Hassan Garamon** — [LinkedIn]([https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/abdulrahman-khaled-garamon-5558aa31b)) · [GitHub](https://github.com/Garamoon)
 
 ## 📄 License
 
